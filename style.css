@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+section {
+  background: red;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+section.hidden {
+  display: none;
+}
